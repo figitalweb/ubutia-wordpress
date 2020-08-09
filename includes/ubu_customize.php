@@ -25,6 +25,9 @@ function ubu_customize_theme($wp_customize)
     // Sección Purpose
     include_once('customize_parts/panel_home/section_purpose.php');
 
+    // Sección Expertise
+    include_once('customize_parts/panel_home/section_expertise.php');
+
 }
 
 add_action('customize_register', 'ubu_customize_theme');
