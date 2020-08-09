@@ -8,7 +8,6 @@
     <meta name="description" content="<?php bloginfo('description'); ?>" />
 
     <title><?php wp_title('|', true, 'right'); ?> <?php bloginfo('name'); ?></title>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo RUTATEMA; ?>/assets/images/logo-icon.png" />
 
     <?php wp_head(); ?>
 

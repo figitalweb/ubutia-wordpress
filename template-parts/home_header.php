@@ -1,4 +1,4 @@
-<header class="bg-img header">
+<header class="bg-img header" style="background-image: url(<?php echo RUTATEMA; ?>/assets/images/1.jpg);">
     <nav class="navbar navbar-default navbar-ubutia">
         <div class="container">
             <div class="navigation-bar">

@@ -56,7 +56,8 @@ $(document).ready(function() {
 	})
 	$('#expert-slider').owlCarousel({
 	    loop:true,
-	    items: 1
+		items: 1,
+		dots: false
 	})
 
  	// height

@@ -1,7 +1,7 @@
 <section id="expertise" class="expert">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-6 bg-img">
+            <div class="col-sm-6 bg-img" style="background-image: url(<?php echo RUTATEMA; ?>/assets/images/2.jpg);">
                 <div></div>
             </div>
             <div class="col-sm-5 section">
@@ -17,6 +17,7 @@
                             We specializes in professional design services for graphics design, web development, website design, portfolio design, professional small business design services and documents design. Need help? Consider using our professional designer to make your business growth up . There are advantages to using a professional that is experienced with web design, graphic design and conversion best practices. Call us now to find out more.
                         </p>
                     </div>
+
                 </div>
             </div>
         </div>

@@ -30,7 +30,7 @@ function ubu_scripts(){
     
     wp_register_script('owl-carousel-js', RUTATEMA . '/assets/js/owl.carousel.min.js', array('bootstrap-js'), '1.0', true);
 
-    wp_register_script('magnific-popup-js', RUTATEMA . '/assets/js/jquery.magnific-popup.js', array('owl-carousel-js'), '1.0', true);
+    wp_register_script('magnific-popup-js', RUTATEMA . '/assets/js/jquery.magnific-popup.min.js', array('owl-carousel-js'), '1.0', true);
 
     wp_register_script('script', RUTATEMA . '/assets/js/script.js', array('magnific-popup-js'), '1.0', true);
 
