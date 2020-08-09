@@ -8,3 +8,6 @@
 
 /****************** Estilos y Scripts ***********************/
 require_once('includes/style_scripts.php');
+
+/****************** Soporte del tema ***********************/
+require_once('includes/theme_suport.php');
