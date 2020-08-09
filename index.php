@@ -1,75 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<?php get_header(); ?>
 
-        <title>ubutia | Home</title>
-        <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo-icon.png"/>
-
-        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <link href="assets/css/bootstrap-theme.min.css" rel="stylesheet">
-
-        <link href="assets/css/owl.carousel.css" rel="stylesheet">
-        <link href="assets/css/owl.theme.default.min.css" rel="stylesheet">
-
-        <link href="assets/css/magnific-popup.css" rel="stylesheet">
-
-        <link href="assets/css/style.css" rel="stylesheet">
-
-
-        <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
-    </head>
-    <body>
-        <div id="menu-item" class="menu-item hide-menu">
-            <div class="container">
-                <ul>
-                    <a href="index.html"><li>home</li></a>
-                    <a href="#about"><li>about</li></a>
-                    <a href="#expertise"><li>expertise</li></a>
-                    <a href="#workstation"><li>workstation</li></a>
-                    <a href="#team"><li>team</li></a>
-                    <a href="#contact"><li>contact</li></a>
-                    <a href="elements.html"><li>Elements</li></a>
-                </ul>
-            </div>
-        </div>
-        <div class="main">
-            <header class="bg-img header">
-                <nav class="navbar navbar-default navbar-ubutia">
-                    <div class="container">
-                        <div class="navigation-bar">
-                            <div class="row">
-                                <div class="col-xs-6">
-                                    <div class="logo">
-                                        <a href="index.html"><span class="ubutia-icon"></span></a>
-                                    </div>
-                                </div>
-                                <div class="col-xs-6 text-right">
-                                    <div class="menu m">
-                                        <a href="#"><span class="ion-navicon _ion-android-menu"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </nav>
-                <div class="container">
-                    <div class="row">
-                        <div class="intro-box">
-                            <div class="intro">
-                                <h1>We are ubutia agency</h1>
-                                <p>Creative digital agency based in US</p>
-                                <a class="btn ubutia-btn" href="#">Explore us</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </header>
             <section id="about" class="about section">
                 <div class="container">
                     <div class="row">
@@ -404,21 +334,5 @@
                     </div>
                 </div>
             </section>
-            <footer class="footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <p>Design <font class="logo-icon"></font> by <a href="https://www.freshdesignweb.com/">freshDesignweb</a></p>
-                        </div>
-                    </div>
-                </div>
-            </footer>
-        </div>
-
-        <script src="assets/js/jquery-3.1.1.js"></script>
-        <script src="assets/js/bootstrap.min.js"></script>
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <script src="assets/js/jquery.magnific-popup.js"></script>
-        <script src="assets/js/script.js"></script>
-    </body>
-</html>
+            
+<?php get_footer(); ?>
