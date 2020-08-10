@@ -31,6 +31,15 @@ function ubu_customize_theme($wp_customize)
     // Sección Quote
     include_once('customize_parts/panel_home/section_quote.php');
 
+    // Sección Workstation
+    include_once('customize_parts/panel_home/section_workstation.php');
+
+    // Sección Watch
+    include_once('customize_parts/panel_home/section_watch.php');
+    
+    // Sección Team
+    include_once('customize_parts/panel_home/section_team.php');
+
 }
 
 add_action('customize_register', 'ubu_customize_theme');
