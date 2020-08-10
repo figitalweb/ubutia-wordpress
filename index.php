@@ -25,9 +25,9 @@
 <?php include_once('template-parts/home_team.php'); ?>
 
 <!-- Formulario de suscripcion -->
-<?php include_once('template-parts/home_team.php'); ?>
+<?php include_once('template-parts/home_suscribe.php'); ?>
 
 <!-- contacto -->
-<?php include_once('template-parts/home_team.php'); ?>
+<?php include_once('template-parts/home_contact.php'); ?>
 
 <?php get_footer(); ?>

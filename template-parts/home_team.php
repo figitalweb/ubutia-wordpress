@@ -66,6 +66,12 @@
                                 <a href="#">
                                     <li><span class="ion-social-twitter"></span></li>
                                 </a>
+                                <a href="#">
+                                    <li><span class="ion-social-instagram"></span></li>
+                                </a>
+                                <a href="#">
+                                    <li><span class="ion-social-linkedin"></span></li>
+                                </a>
                             </ul>
                         </div>
                     </div>
