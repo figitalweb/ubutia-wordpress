@@ -35,8 +35,8 @@
                 <a href="#contact">
                     <li>contact</li>
                 </a>
-                <a href="elements.html">
-                    <li>Elements</li>
+                <a href="">
+                    <li></li>
                 </a>
             </ul>
         </div>

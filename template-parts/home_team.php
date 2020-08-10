@@ -5,7 +5,7 @@
             <div class="col-sm-4">
                 <div class="ubutia-card">
                     <div class="ubutia-card-header">
-                        <img class="img-responsive" src="assets/images/8.jpg">
+                        <img class="img-responsive" src="<?php echo RUTATEMA; ?>/assets/images/8.jpg">
                     </div>
                     <div class="ubutia-card-content">
                         <h3>Rosa Ly</h3>
@@ -28,7 +28,7 @@
             <div class="col-sm-4">
                 <div class="ubutia-card">
                     <div class="ubutia-card-header">
-                        <img class="img-responsive" src="assets/images/9.jpg">
+                        <img class="img-responsive" src="<?php echo RUTATEMA; ?>/assets/images/9.jpg">
                     </div>
                     <div class="ubutia-card-content">
                         <h3>Eva Ly</h3>
@@ -51,7 +51,7 @@
             <div class="col-sm-4">
                 <div class="ubutia-card">
                     <div class="ubutia-card-header">
-                        <img class="img-responsive" src="assets/images/10.jpg">
+                        <img class="img-responsive" src="<?php echo RUTATEMA; ?>/assets/images/10.jpg">
                     </div>
                     <div class="ubutia-card-content">
                         <h3>Graham Bill</h3>
