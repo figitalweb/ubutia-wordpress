@@ -40,6 +40,9 @@ function ubu_customize_theme($wp_customize)
     // Sección Team
     include_once('customize_parts/panel_home/section_team.php');
 
+    // Sección Contact
+    include_once('customize_parts/panel_home/section_contact.php');
+
     // Sección Footer
     include_once('customize_parts/panel_home/section_footer.php');
 
